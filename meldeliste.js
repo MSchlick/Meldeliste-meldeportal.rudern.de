@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Meldeliste meldeportal.rudern.de
-// @namespace    https://meldeportal.rudern.de/
+// @namespace    MeldelisteMeldeportal
 // @version      0.3
 // @description  Alle Meldungen, sowie gemeldete Sportler als Liste darstellen
 // @author       Markus Schlick
 // @match        https://meldeportal.rudern.de/regattas/*/my-entries*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=1.10
+// @updateURL.   https://raw.githubusercontent.com/MSchlick/Meldeliste-meldeportal.rudern.de/main/meldeliste.js
 // @require      https://code.jquery.com/jquery-3.7.0.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js
 // @resource REMOTE_CSS https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css

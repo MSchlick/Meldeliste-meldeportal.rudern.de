@@ -10,3 +10,6 @@
 **Mozilla Firefox**: Install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) or [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/).  
 **Opera**: Install [this](https://addons.opera.com/en/extensions/details/install-chrome-extensions/) extension first, then you can install Tampermonkey or Violentmonkey from the Chrome extension store.  
 **Microsoft Edge**: Install [Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) from the Edge Add-On Repository.
+
+# Liste bekannter Fehler
+Trainer werden als Sportler angezeigt

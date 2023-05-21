@@ -1,4 +1,4 @@
-# Meldeliste-meldeportal.rudern.de
+# Meldeliste meldeportal.rudern.de
 
 # Installation
 1. Stelle sicher das Tampermonkey, Greasemonkey oder Violentmonkey installiert ist
